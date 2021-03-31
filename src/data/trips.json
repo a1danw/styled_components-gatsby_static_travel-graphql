@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/jordan.jpg",
+    "alt": "Wadi Musa, Jordan",
+    "name": "Wadi Musa, Jordan",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/new-york.jpg",
+    "alt": "New York City, America",
+    "name": "New York City, America",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/eiffel-tower.jpg",
+    "alt": "Eiffel Tower, Paris",
+    "name": "Eiffel Tower, Paris",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/peyto-lake.jpg",
+    "alt": "Peyto Lake, Canada",
+    "name": "Peyto Lake, Canada",
+    "button": "View Destination"
+  }
+]
