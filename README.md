@@ -5,7 +5,7 @@
   </a>
 </p>
 <h2 align="center">
-  Gatsby static site with graphql and image optimisation.
+  <a href="https://gatsby-travel-site1.netlify.app/">Gatsby static site with graphql and image optimisation.</a>
 </h2>
 
 ![](readme-img.png)
