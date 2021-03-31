@@ -7,3 +7,5 @@
 <h2 align="center">
   Gatsby static site with graphql and image optimisation.
 </h2>
+
+![](readme-img.png)
